@@ -1,0 +1,6 @@
+@ServiceFilterBasic_HostAddress = http://localhost:5001
+
+GET {{ServiceFilterBasic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
